@@ -6,7 +6,7 @@ This project presents my technical skills, featured frontend projects, professio
 
 ## Live Preview
 
-[View My CV]()
+[View My CV](https://johnyisbackk.github.io/frontend-developer-cv/)
 
 ## Features
 
